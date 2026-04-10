@@ -1,4 +1,4 @@
-module github.com/mzh/monolink
+module github.com/MrZloHex/monolink
 
 go 1.24.0
 
