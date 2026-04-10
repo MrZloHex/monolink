@@ -19,7 +19,7 @@
   ───────────────────────────────────────────────────────────────
   ▓ ARCHITECTURE
   ▪ **RUNTIME**: Go 1.24+ (see `go.mod`)
-  ▪ **MODULE**: `github.com/mzh/monolink` — publish as its **own** GitHub repo (`mzh/monolink`), not under `monolith/`
+  ▪ **MODULE**: `github.com/MrZloHex/monolink` — published at https://github.com/MrZloHex/monolink
   ▪ **API**: `Client` (dial, reconnect, handlers, optional inbox), `Message` / `Parse` / `Encode`, `LoadClientTLS`
 
   ───────────────────────────────────────────────────────────────
@@ -42,7 +42,7 @@
 
   **Add to a module** (released version)
   ```sh
-  go get github.com/MrZloHex/monolink@v0.1.0
+  go get github.com/MrZloHex/monolink@v0.1.1
   ```
 
   ───────────────────────────────────────────────────────────────
